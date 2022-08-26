@@ -7,4 +7,4 @@ before_install:
 
 script:
 
-  - docker run -t mantriraoravi/docker-react npm run test -- -- coverage 
+  - docker run mantriraoravi/docker-react npm run test -- -- coverage 
