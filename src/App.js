@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            I WAS CHANGED ON THE FEATURE BRANCH..
+            I WAS CHANGED ON THE master BRANCH again..
         </p>
         <a
           className="App-link"
